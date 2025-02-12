@@ -1,0 +1,9 @@
+{
+	"name": "NYPDArrestData-IndividualProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c53f894d-e488-4e0a-bddd-bb47b6a9973c",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
