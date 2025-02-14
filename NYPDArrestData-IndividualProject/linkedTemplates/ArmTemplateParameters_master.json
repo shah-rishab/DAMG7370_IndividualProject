@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "NYPDArrestData-IndividualProject"
+		},
+		"AzureDataLakeStorage_LS_accountKey": {
+			"value": ""
+		},
+		"Is_Snowflake_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage_LS_properties_typeProperties_url": {
+			"value": "https://dadabispring2025.dfs.core.windows.net/"
+		},
+		"Is_Snowflake_properties_typeProperties_database": {
+			"value": "NYPD_ARREST_DATA_INDIVIDUALPROJECT"
+		},
+		"Is_Snowflake_properties_typeProperties_role": {
+			"value": "TEMP_ROLE"
+		},
+		"Is_stgblobspring2025_sasUri": {
+			"value": ""
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
