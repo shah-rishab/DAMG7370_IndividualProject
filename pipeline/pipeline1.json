@@ -19,7 +19,7 @@
 						"type": "DelimitedTextSource",
 						"additionalColumns": [
 							{
-								"name": "JobID",
+								"name": "Job_ID",
 								"value": {
 									"value": "@pipeline().RunId",
 									"type": "Expression"
