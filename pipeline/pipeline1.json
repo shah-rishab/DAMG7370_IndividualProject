@@ -250,7 +250,7 @@
 							},
 							{
 								"source": {
-									"name": "JobID",
+									"name": "Job_ID",
 									"type": "String"
 								},
 								"sink": {
@@ -260,7 +260,7 @@
 							},
 							{
 								"source": {
-									"name": "Load_Date",
+									"name": "LOAD_DT",
 									"type": "String"
 								},
 								"sink": {
