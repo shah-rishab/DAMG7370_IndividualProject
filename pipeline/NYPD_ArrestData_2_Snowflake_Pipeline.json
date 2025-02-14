@@ -1,9 +1,9 @@
 {
-	"name": "pipeline1",
+	"name": "NYPD_ArrestData_2_Snowflake_Pipeline",
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy data1",
+				"name": "NYPD_ArrestData_2_Snowflake",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
